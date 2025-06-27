@@ -2,7 +2,7 @@
 SQL Parser Module
 
 A dedicated SQL parsing module that extracts and analyzes SQL query components.
-This parser focuses on SELECT statements and breaks them down into their constituent parts.
+This parser focuses on SELECT statements and breaks them down into their constituent parts. 
 """
 
 import re
